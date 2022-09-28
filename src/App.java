@@ -1,7 +1,7 @@
 /**
  * @author: MARK ANDREW B. DUZA
  *          BSIT 103
- *          Computer Programming Activity
+ *          Computer Programming E-LMS Activity
  */
 
 public class App {
