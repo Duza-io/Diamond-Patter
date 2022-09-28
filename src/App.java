@@ -5,11 +5,11 @@
  */
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws InterruptedException {
         // number of rows
-        int rows = 20;
+        int rows = 10;
         // symbol
-        String symbol = "^";
+        String symbol = "*";
 
         // upper section
         for (int i = 1; i <= rows; i++) {
